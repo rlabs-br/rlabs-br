@@ -1,4 +1,4 @@
-# 💡RLabs Inc.
+# RLabs Inc.
 
 Projects made by **RLabs Inc**. 
 
